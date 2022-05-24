@@ -3,7 +3,7 @@ variable "profile" {
 }
 
 variable "aws_access_key" {
-   default = "Your AWS ACCESS KEY"
+   default = "AVLP89M0QDRSDA"
    description = "AWS Access key"
 }
 

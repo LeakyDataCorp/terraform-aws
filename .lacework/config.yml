@@ -1,7 +1,7 @@
-pr_status_force_pass_enabled: true
-pr_status_thresholds:
-  critical: 0
-  high: 999
-  medium: 999
-  low: 999
-scan_git_submodules_enabled: false
+#pr_status_force_pass_enabled: true
+#pr_status_thresholds:
+#  critical: 0
+#  high: 999
+#  medium: 999
+#  low: 999
+#scan_git_submodules_enabled: false

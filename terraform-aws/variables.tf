@@ -73,3 +73,4 @@ variable "nginx_pod_image" {
   default = "nginx:latest"
   type    = string
 }
+

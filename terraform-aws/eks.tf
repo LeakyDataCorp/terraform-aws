@@ -40,3 +40,4 @@ resource "kubernetes_service" "nginx" {
     type = "LoadBalancer"
   }
 }
+
